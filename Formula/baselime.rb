@@ -1,8 +1,8 @@
 class Baselime < Formula
   desc "Observability as Code for serverless"
   homepage "https://github.com/baselime/cli"
-  url "https://github.com/baselime/cli/releases/download/v0.0.9/baselime-darwin-x64-v0.0.9.tar.gz"
-  sha256 "d0cd0cbd37c2f086edc5fcb21f863059661475cec585ebb9dd95aeaac90aa417"
+  url "https://github.com/baselime/cli/releases/download/v0.0.10/baselime-darwin-x64-v0.0.10.tar.gz"
+  sha256 "a9676491814c9d2ac41fdcb046085b08b08e14de242a725de6a630c874074855"
   license "MIT"
 
   def install
